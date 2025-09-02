@@ -6,16 +6,6 @@ protein design paper with code
 
 | Year | Paper with link                                              | Code                                                         |
 | :--: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2022 | [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models(RFdiffusion)]([https://arxiv.org/abs/2304.10970](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1)) | [[Code]([https://github.com/mingkai-zheng/GENIUS](https://github.com/RosettaCommons/RFdiffusion))]            |
-| 2023 | [Heterogeneous Graph Neural Architecture Search with GPT-4](https://arxiv.org/abs/2312.08680) |                                                              |
-| 2023 | [Unleashing the Potential of LLMs for Quantum Computing: A Study in Quantum Architecture Design](https://arxiv.org/abs/2307.08191) [[Review](  https://openreview.net/forum?id=GWWeQ3WUMS)] |                                                              |
-| 2023 | [AutoML-GPT: Automatic Machine Learning with GPT](https://arxiv.org/abs/2305.02499) |                                                              |
-| 2023 | [LLMatic: Neural Architecture Search via Large Language Models and Quality Diversity Optimization](https://arxiv.org/abs/2306.01102) (Accepted by GECCO 2024) | [[Code](https://openreview.net/attachment?id=iTrd5xyHLP&name=supplementary_material)] |
-| 2023 | [LLM Performance Predictors Are Good Initializers for Architecture Search](https://arxiv.org/abs/2310.16712) [[Review](https://openreview.net/forum?id=7JU8TwFXGC)] |                                                              |
-| 2023 | [EvoPrompting: Language Models for Code-Level Neural Architecture Search](https://arxiv.org/abs/2302.14838) (Accepted by NeurIPS 2023) | [[Code](https://github.com/algopapi/EvoPromptingReinforcementlearning)] |
-| 2023 | [AutoML in the Age of Large Language Models: Current Challenges, Future Opportunities and Risks](https://arxiv.org/abs/2306.08107) [[Review](  https://openreview.net/forum?id=cAthubStyG)] |                                                              |
-| 2024 | [Graph Neural Architecture Search with GPT-4](https://arxiv.org/abs/2310.01436) |                                                              |
-| 2024 | [FL-NAS: Towards Fairness of NAS for Resource Constrained Devices via Large Language Models](https://arxiv.org/abs/2402.06696) |                                                              |
-| 2024 | [AutoMMLab: Automatically Generating Deployable Models from Language Instructions for Computer Vision Tasks](https://arxiv.org/abs/2402.15351) |                                                           |
-| 2024 | [LLaMA-NAS: Efficient Neural Architecture Search for Large Language Models](https://arxiv.org/abs/2405.18377) |                                                           |
-| 2024 | [Large Language Model Assisted Adversarial Robustness Neural Architecture Search](https://arxiv.org/abs/2406.05433) (Accepted by The 6th International Conference on Data-driven Optimization of Complex Systems (DOCS) 2024)| [[Code](https://github.com/RuiZhong961230/LLMO)]            |
+| 2022 | [Broadly applicable and accurate protein design by integrating structure prediction networks and diffusion generative models (RFdiffusion)](https://www.biorxiv.org/content/10.1101/2022.12.09.519842v1) | [[Code](https://github.com/RosettaCommons/RFdiffusion)]            | 
+| 2023 | [Robust deep learning based protein sequence design using ProteinMPNN](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1) | [[Code](https://github.com/dauparas/ProteinMPNN)] |                                                            |
+
